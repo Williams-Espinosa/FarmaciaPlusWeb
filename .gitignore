@@ -6,3 +6,5 @@ build/
 coverage/
 .vscode/
 .env.example
+.env
+.env.local
