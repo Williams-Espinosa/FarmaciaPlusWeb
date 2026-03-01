@@ -107,7 +107,7 @@ class EmailService {
         const opciones = {
             from: `"SuperFarmacia - Promociones" <${process.env.EMAIL_USER}>`,
             to: emailUsuario,
-            subject: `🎉 ¡Nueva Promoción! ${promocion.titulo} - FarmaPlus`,
+            subject: ` ¡Nueva Promoción! ${promocion.titulo} - FarmaPlus`,
             html: `
                 <div style="font-family: Arial, sans-serif; max-width: 600px; margin: 0 auto; background: #f8fafc; padding: 20px;">
                     <div style="background: linear-gradient(135deg, #2563eb, #2563eb); color: white; padding: 30px; border-radius: 16px 16px 0 0; text-align: center;">
