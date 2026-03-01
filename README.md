@@ -1,4 +1,4 @@
-# 💊 FarmaciaPlusWeb
+# 💊 Farmacia Plus Web
 
 Una solución integral para la gestión de farmacias desarrollada con un stack moderno. El proyecto incluye un servidor robusto y una interfaz de usuario intuitiva.
 
@@ -18,3 +18,20 @@ Una solución integral para la gestión de farmacias desarrollada con un stack m
 2. Instala dependencias en ambas carpetas: `npm install`.
 3. Configura tus variables de entorno para la conexión a MySQL.
 4. Ejecuta el servidor y el cliente.
+
+## 📄 Licencia
+
+![Licencia: Privada](https://img.shields.io/badge/Licencia-No_Comercial-red?style=for-the-badge)
+---
+
+## Propiedad Intelectual
+
+Todo el contenido de este repositorio, incluyendo el código fuente, diseño gráfico, está protegido por las leyes de propiedad intelectual.
+
+* **Uso permitido:** Consulta, aprendizaje y exhibición personal.
+* **Prohibiciones:** Se prohíbe estrictamente la copia parcial o total para uso comercial, la reventa del software.
+
+> ###  *"Crea el presente, codifica el futuro."*
+> © 2026 **Williams-Espinosa**. Todos los derechos reservados.
+
+---
